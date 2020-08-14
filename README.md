@@ -1,7 +1,7 @@
 # Proxy 
 Sungyeon Yoo, CS338 Project 1
 
-This project serves as the frontend for Proxy, a full-stack COVID tracking web application.
+This react project serves as the frontend for Proxy, a full-stack COVID tracking web application.
 
 Please use your browser's device simulation tool to view the project in the resolution of iPhone 6/7/8! 
 
